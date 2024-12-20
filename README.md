@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to fork this repository, submit a pull requ
 
 ## Author
 
-[Your Name](https://github.com/Jebin1999)
+[Jervis Larosh Jervis](https://github.com/Jebin1999)
 
 ## Disclaimer
 
